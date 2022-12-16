@@ -2,10 +2,6 @@
 # -*- coding: UTF-8 -*-
 # -*- Mode: Python -*-
 #
-# Copyright (C) 2013 snom technology <pietro.bertera@snom.com>
-#
-# This program is available under the Lesser General Public Licence (LGPL) Version 3
-# This software is released for didactical and debugging purposes. You're free to use it at your own risk.
 
 import socket
 import time
